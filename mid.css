@@ -1,0 +1,56 @@
+header{
+	background-color: #666;
+	color: white;
+	display: flex;
+}
+.logo{
+	size: 10px;
+	flex: 1;
+	order: 1;
+}
+.headline{
+	color: red;
+	text-align: center;
+	flex:2;
+	order: 2;
+}
+.Contact{
+	color: red;
+	flex: 1;
+	order: 3;
+}
+.full{
+	background-color: green;
+	display: flex;
+}
+.cook{
+	flex: 1;
+	order: 1;
+}
+.dess{
+	flex: 1;
+	order: 2;
+}
+.din{
+	flex: 1;
+	order: 3;
+}
+.soup{
+	flex: 1;
+	order: 4;
+}
+.cake{
+	flex: 1;
+	order: 5;
+}
+.spi{
+	flex: 1;
+	order: 6;
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
